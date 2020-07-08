@@ -1,0 +1,120 @@
+</section>
+</body>
+</html><!DOCTYPE html>                                                                                                   for css
+<html></section>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+	<title>TANISHQ SHARMA</title>
+	<link rel="stylesheet" type="text/css" href="sharma tanishq.css">
+</head>
+<body>
+	
+
+<header>
+	<nav>
+		<ul>
+			<li>
+				<a href="#">home</a>
+			</li>
+			<li>
+				<a href="#">aboutus</a>
+			</li>
+			<li>
+				<a href="#">login/signup</a>
+			</li>
+			<li>
+				<a href="#">blogpost</a>
+			</li>
+			<li>
+				<a href="#">help</a>
+			</li>
+		</ul>
+	</nav>
+</header>
+<section>
+	
+	<p class="places">welcome to all of you there....<br>
+	thanks for visiting our site<br>
+	i hope you are all good and happy..<br>
+    here in our site i have been uploading various kind of posts<br>
+    related to the travelling and all,sharing the experience of visit...</p>
+    <img src="New folder/laddakh.jfif" width="400px;">
+    <p class="visit">you can also share your pictures,video,story and feedback in our site<br>
+    	But for that you have to be the member of this group.........<br>
+    	To be the member of this group you have to sigin/login in our site and after that<br>
+    you get all the updates about the journey of the fellow members......</p>
+</section>
+    <form>
+    	<label>enter your email</label>
+    	<input type="email" name="email" placeholder="user_email";"><br>
+    	<label>enter your password</label>
+    	<input type="password" name="password" placeholder="user_password"><br>
+    	<label>D.O.B</label>
+    	<input type="DOB" name="DOB" placeholder="date of birth"><br>
+        <input type="submit" name="submit" value="submit">
+    </form>
+    <footer>
+    	<p>&copy;copyright..All rights reserved</p>
+    </footer>
+</body>
+</html>
+
+for css
+header{
+	background-color: black;
+	padding: 5px;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a{
+	color: white;
+	text-decoration: none;
+}
+li a:hover{
+	color: red;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 3px;
+}
+form{
+	text-align: center;
+	margin-left: 900px;
+	margin-bottom: 300px;
+	margin-top: -440px;
+	font-size: 25px;
+    background-color: green;
+}
+.places{
+	text-align: center;
+	font-size: 25px;
+	margin-right: 900px;
+	background-color: orange;
+}
+
+.visit{
+	text-align: center;
+	font-size: 25px;
+	margin-left: 400px;
+	margin-right: 400px;
+	background-color: red;
+}
+img{
+	margin-left: 460px;
+	
+}
+section{
+    background-color: brown;
+}
+
+
+		
